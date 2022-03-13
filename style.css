@@ -1,0 +1,44 @@
+body{
+    /* background-size: cover;
+    background-image: url("Chelsea-FC-Logo-Background.jpeg");
+    background-repeat: no-repeat;
+    background-position: center; */
+    background-color: rgb(247, 224, 224);
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+img{
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+ display: flex;
+ margin-left: 10px;
+ margin-top: 5px;
+}
+
+#nav-bar{
+background-color: whitesmoke;
+height: 60px;
+width: 100vw;
+display: flex;
+margin-top: 10;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style: none;
+    margin-left: 1000px;
+    flex: content ;
+    
+
+
+
+
+    /* align-items: flex-end;
+    justify-content: flex-end; */
+    
+}
